@@ -1,10 +1,14 @@
 # Venus
-Evaluación correspondiente al quinto sprint, el objetivo es crear una plataforma ecomerce utilizando una api de productos (elegimos etsy),  posteriormente aplicaremos SPA.
+Venus es un e-commerce dirigo a mujeres jóvenes que disfrutan de un estilo en tendencia así como de las prendas sencillas y cómodas.
+
+Evaluación correspondiente al quinto sprint, el objetivo es crear una SPA para un e-commerce utilizando una api de productos (elegimos Etsy).
+
+![Venus Home](https://user-images.githubusercontent.com/32860789/38183846-1225a70c-3609-11e8-8526-b2d1d9cf5c52.png)
 
 ## Planeación
 1.- Searching de API's relacionadas con ecommerce, se procede a utilizar etsy pues resulta ser la más amigable además de la mejor documentada.
 
-2.- La temática del ecommerce pretende ser una tienda de ropa dirigida al publico feminino, personas entre 16-34 años (o más) aproximadamente.
+2.- La temática del ecommerce pretende ser una tienda de ropa dirigida a mujeres jovénes.
 
 ## Justificación
 Iniciar un negocio con ropa es un alcance seguro, y en poco tiempo se remunera lo invertido.

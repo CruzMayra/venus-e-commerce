@@ -37,3 +37,6 @@ Ya lo dice el profesor de Marketing de Wharton, Stephen J. Hoch: “Las mujeres 
 1.- Pruebas con paypal.
 
 2.- Segunda prueba utilizando SPA.
+
+## Desarrollado para
+Laboratoria

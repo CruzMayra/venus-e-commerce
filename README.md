@@ -5,6 +5,8 @@ Evaluación correspondiente al quinto sprint, el objetivo es crear una SPA para 
 
 ![Venus Home](https://user-images.githubusercontent.com/32860789/38183846-1225a70c-3609-11e8-8526-b2d1d9cf5c52.png)
 
+## Desarrollado para Laboratoria
+
 ## Planeación
 1.- Searching de API's relacionadas con ecommerce, se procede a utilizar etsy pues resulta ser la más amigable además de la mejor documentada.
 
@@ -37,6 +39,3 @@ Ya lo dice el profesor de Marketing de Wharton, Stephen J. Hoch: “Las mujeres 
 1.- Pruebas con paypal.
 
 2.- Segunda prueba utilizando SPA.
-
-## Desarrollado para
-Laboratoria
